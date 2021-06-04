@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Forum";
+  src:
+    url("../fonts/forum-v10-latin_cyrillic-regular.woff2") format("woff2"),
+    url("../fonts/forum-v10-latin-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Futura PT Book";
+  src: url("../fonts/futura_pt_book.woff2") format("woff2"),
+    url("../fonts/futura_pt_book.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Futura PT Light";
+  src: url("../fonts/futura_pt_light.woff2") format("woff2"),
+    url("../fonts/futura_pt_light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Futura PT Normal";
+  src: url("../fonts/futura_pt-normal.woff2") format("woff2"),
+    url("../fonts/futura_pt-normal.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("../fonts/SegoeUI-Italic.woff") format("woff");
+  font-style: italic;
+}
